@@ -1,0 +1,1 @@
+O professor solicitou que fosse feito uma possível implementação em C de uma paginação inversa.
